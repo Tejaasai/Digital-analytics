@@ -12,20 +12,6 @@ Conducted detailed exploratory data analysis on transaction data to understand t
 
 Data Modeling (Creation of ER Diagrams), Data Manipulation, Data Summarization, Exploratory Data Analysis, Creation of Reports, and Insights Generation
 
-## Findings:
-
-•	Desktop Dominance: Desktop users are having higher conversion rate across all channels compared to mobile users. This might be due to large screen size and more controlled browsing environment.
-
-•	Mobile Conversion Challenges: Mobile devices have lower conversion rate, this might be due to smaller screen size, distractions and a less optimal browsing experience.
-
-•	Paid search is the channel which generated highest revenue as well as highest profit when compared to other channels.
-
-•	The Original Mr. Fuzzy is the product which generated highest revenue when compared to other products
-
-•	The Original Mr. Fuzzy had a greater number of web sessions and pageviews which might be one of the reasons for generation of highest revenue. 
-
-•	The highest drop-off points are typically between “Home to Specific Product” and “Cart” and “Shipping”. This suggests that users might be facing issues with product selection or the checkout process.
-
 ## Detailed Steps:
 
 •	Understand the business objective and available data with the help of a data dictionary.
@@ -40,6 +26,21 @@ o	Product refund rate across different years.
 o	Conversion funnel and pages which lead to purchase.
 
 •	Finally generated insights in terms of most selling products, most used channels and device type, possible drivers of sales, trends, seasonality, etc.
+
+## Findings:
+
+•	Desktop Dominance: Desktop users are having higher conversion rate across all channels compared to mobile users. This might be due to large screen size and more controlled browsing environment.
+
+•	Mobile Conversion Challenges: Mobile devices have lower conversion rate, this might be due to smaller screen size, distractions and a less optimal browsing experience.
+
+•	Paid search is the channel which generated highest revenue as well as highest profit when compared to other channels.
+
+•	The Original Mr. Fuzzy is the product which generated highest revenue when compared to other products
+
+•	The Original Mr. Fuzzy had a greater number of web sessions and pageviews which might be one of the reasons for generation of highest revenue. 
+
+•	The highest drop-off points are typically between “Home to Specific Product” and “Cart” and “Shipping”. This suggests that users might be facing issues with product selection or the checkout process.
+
 
 ## Recommendations:
 
