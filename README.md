@@ -13,20 +13,19 @@ Conducted detailed exploratory data analysis on transaction data to understand t
 
 Data Modeling (Creation of ER Diagrams), Data Manipulation, Data Summarization, Exploratory Data Analysis, Creation of Reports, and Insights Generation
 
-## Detailed Steps:
+## Key Performance Indicators (KPI):
 
-•	Understand the business objective and available data with the help of a data dictionary.
+•	Conversion rate: Percentage of visitors who make a purchase
 
-•	Created an ER Diagram that represents the structure of the database.
+•	Traffic: Refers to the number of visitors or users who navigate to a website or web page.
 
-•	Subsequently, a database was established in an MS SQL server with the necessary schema, and the data was successfully loaded into it.
+•	Bounce Rate: Bounce rate measures the percentage of website visitors who navigate away from the site after viewing only 
+  one page, without interacting further. 
 
-•	Performed the below analysis to understand the selling patterns, trends, seasonality of different products, conversion rate, and prioritizing customers.
-o	Performance of different products analyzing channels driving most traffic.
-o	Product refund rate across different years.
-o	Conversion funnel and pages which lead to purchase.
+•	Cart Abandonment Rate: The percentage of online shoppers who add items to their shopping cart but leave the website 
+  without completing the purchase. 
 
-•	Finally generated insights in terms of most selling products, most used channels and device type, possible drivers of sales, trends, seasonality, etc.
+•	Average Order Value: Average amount spent by a customer per transaction.
 
 ## Findings:
 
